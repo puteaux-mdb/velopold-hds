@@ -5,14 +5,14 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Delmas",
+                "name": "Porte Maillot > Rue des Graviers",
                 "quality": "fair",
-                "doneAt": "31\/12\/2019",
+                "doneAt": "31\/12\/2025",
                 "status": "done",
                 "promisedFor": 2025,
                 "type": "bidirectionnelle",
                 "line": "4",
-                "link": "/veloligne-4#corum-castelnau"
+                "link": "/veloligne-4#maillot-graviers"
             },
             "geometry": {
                 "type": "LineString",
