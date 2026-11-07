@@ -1,7 +1,7 @@
 ---
-line: 1
-lineName: Véloligne 1
-lineNameShort: 1
+line: 4
+lineName: Véloligne 4
+lineNameShort: 4
 description: Véloligne desservant les communes du quart nord-est de la métropole.
 cover:
 from: Mtp Corum
