@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "name": "veloligne-1",
+    "name": "veloligne-4",
     "features": [
         {
             "type": "Feature",
@@ -11,8 +11,8 @@
                 "status": "done",
                 "promisedFor": 2025,
                 "type": "bidirectionnelle",
-                "line": "1",
-                "link": "/veloligne-1#corum-castelnau"
+                "line": "4",
+                "link": "/veloligne-4#corum-castelnau"
             },
             "geometry": {
                 "type": "LineString",
