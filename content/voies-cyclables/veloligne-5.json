@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "name": "veloligne-5",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porte Maillot > Rue des Graviers",
+                "quality": "good",
+                "doneAt": "31\/12\/2025",
+                "status": "done",
+                "promisedFor": 2025,
+                "type": "bidirectionnelle",
+                "line": "5",
+                "link": "/veloligne-5#maillot-graviers"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2796509,
+                        48.8784923
+                    ],
+                    [
+                        2.2740479,
+                        48.8802595
+                    ],
+                    [
+                        2.2723517,
+                        48.8808109
+                    ],
+                    [
+                        2.2712654,
+                        48.8811744
+                    ],
+                    [
+                        2.2702172,
+                        48.8814752
+                    ],
+                    [
+                        2.269169,
+                        48.8818386
+                    ],
+                    [
+                        2.2659499,
+                        48.8828756
+                    ],
+                    [
+                        2.2645968,
+                        48.8833644
+                    ],
+                    [
+                        2.2645968,
+                        48.8833644
+                    ],
+                    [
+                        2.2645968,
+                        48.8833644
+                    ]
+                ]
+            }
+        }
+    ]
+}
